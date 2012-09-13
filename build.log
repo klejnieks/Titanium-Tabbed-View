@@ -1,0 +1,164 @@
+Logfile initialized
+[INFO] logfile = /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build.log
+[DEBUG] /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/builder.py install sample multidevice tabbed application /Users/klejnieks/Android/android-sdk-macosx /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application com.noroso.mdmp 8
+[INFO] Titanium SDK version: 2.1.2 (08/24/12 14:46 ed7f777)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.827720 seconds on emulator to get ready
+[DEBUG] com.noroso.mdmp installed? False
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/appicon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/default.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/default.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/app.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/fonts/190941_40.ttf => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/fonts/190941_40.ttf
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/fonts/Bryant-Bold.otf => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/fonts/Bryant-Bold.otf
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/fonts/Bryant-Regular.otf => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/fonts/Bryant-Regular.otf
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/fonts/ProximaNova-Bold.otf => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/fonts/ProximaNova-Bold.otf
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/fonts/ProximaNova-Regular.otf => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/fonts/ProximaNova-Regular.otf
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/account_icon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/account_icon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/contact_icon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/contact_icon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/explore_icon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/explore_icon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/home_30.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/home_30.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/news_icon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/news_icon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/images/icons/services_icon.png => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/images/icons/services_icon.png
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/control/Controller.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/control/Controller.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/model/Model.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/model/Model.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/service/ApplicationService.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/service/ApplicationService.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/AddItemView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/AddItemView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/AddItemViewAskQuestion.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/AddItemViewAskQuestion.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/AddItemViewChoices.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/AddItemViewChoices.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/AddItemViewContacts.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/AddItemViewContacts.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/CameraView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/CameraView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/CloudView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/CloudView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/ContactUsView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/ContactUsView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/ExploreView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/ExploreView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/Footer.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/Footer.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/Header.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/Header.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/LoginView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/LoginView.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/ModalWindow.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/ModalWindow.js
+[TRACE] COPYING CREATED FILE: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/ui/view/ProfileView.js => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/ui/view/ProfileView.js
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/ApplicationStylesheet.java
+[DEBUG] copying app icon: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/ApplicationStylesheet.java to javac build list
+[DEBUG] adding /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/R.java to javac build list
+[DEBUG] adding /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationActivity.java to javac build list
+[DEBUG] adding /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationAppInfo.java to javac build list
+[DEBUG] adding /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationApplication.java to javac build list
+[DEBUG] Building Java Sources: "/Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/ApplicationStylesheet.java" "/Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/R.java" "/Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationActivity.java" "/Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationAppInfo.java" "/Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/gen/com/noroso/mdmp/SampleMultideviceTabbedApplicationApplication.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/klejnieks/noroso/titanium/multidevice_tabbed_app/sample multidevice tabbed application/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/fonts/190941_40.ttf
+[DEBUG] from resource zip => assets/Resources/fonts/Bryant-Bold.otf
+[DEBUG] from resource zip => assets/Resources/fonts/Bryant-Regular.otf
+[DEBUG] from resource zip => assets/Resources/fonts/ProximaNova-Bold.otf
+[DEBUG] from resource zip => assets/Resources/fonts/ProximaNova-Regular.otf
+[DEBUG] from resource zip => assets/Resources/images/icons/account_icon.png
+[DEBUG] from resource zip => assets/Resources/images/icons/contact_icon.png
+[DEBUG] from resource zip => assets/Resources/images/icons/explore_icon.png
+[DEBUG] from resource zip => assets/Resources/images/icons/home_30.png
+[DEBUG] from resource zip => assets/Resources/images/icons/news_icon.png
+[DEBUG] from resource zip => assets/Resources/images/icons/services_icon.png
+[DEBUG] from resource zip => assets/Resources/ui/control/Controller.js
+[DEBUG] from resource zip => assets/Resources/ui/model/Model.js
+[DEBUG] from resource zip => assets/Resources/ui/service/ApplicationService.js
+[DEBUG] from resource zip => assets/Resources/ui/view/AddItemView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/AddItemViewAskQuestion.js
+[DEBUG] from resource zip => assets/Resources/ui/view/AddItemViewChoices.js
+[DEBUG] from resource zip => assets/Resources/ui/view/AddItemViewContacts.js
+[DEBUG] from resource zip => assets/Resources/ui/view/CameraView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/CloudView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/ContactUsView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/ExploreView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/Footer.js
+[DEBUG] from resource zip => assets/Resources/ui/view/Header.js
+[DEBUG] from resource zip => assets/Resources/ui/view/LoginView.js
+[DEBUG] from resource zip => assets/Resources/ui/view/ModalWindow.js
+[DEBUG] from resource zip => assets/Resources/ui/view/ProfileView.js
+[DEBUG] from resource zip => assets/Resources/app.js
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/app.json
+[DEBUG] from resource zip => assets/index.json
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/close.png
+[DEBUG] from resource zip => res/drawable/facebook_login.png
+[DEBUG] from resource zip => res/drawable/facebook_login_down.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide.png
+[DEBUG] from resource zip => res/drawable/facebook_login_wide_down.png
+[DEBUG] from resource zip => res/drawable/facebook_logout.png
+[DEBUG] from resource zip => res/drawable/facebook_logout_down.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/close.png
+[DEBUG] from resource zip => res/drawable-ldpi/close.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.js
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/polling.min.js
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/modules/titanium-facebook.jar => ti/modules/titanium/facebook/LICENSE
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/thirdparty.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/thirdparty.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/klejnieks/Library/Application Support/Titanium/mobilesdk/osx/2.1.2.GA/android/thirdparty.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] installing native SDK libs
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.025640 seconds on emulator to get ready
+[INFO] Installing application on device
+[INFO] Application installed. Launch from drawer on Home Screen
