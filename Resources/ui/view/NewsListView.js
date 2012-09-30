@@ -10,7 +10,7 @@ var i = 0;
 var feedTableView;
 var feedTitle = '';
 
-Ti.include('ui/view/strip_tags.js');
+Ti.include('/ui/view/strip_tags.js');
 
 
 function onClickCustomChoice(e)
@@ -35,7 +35,7 @@ function displayItems(itemList)
 			title = itemList.item(c).getElementsByTagName("title").item(0).text;
 			desc = itemList.item(c).getElementsByTagName("description").item(0).text;
 			title = title.replace(/\n/gi, " ");			
-			desc = desc.replace(/\n/gi, " ");
+			//desc = desc;//.replace(/\n/gi, " ");
 
 			var row = Ti.UI.createTableViewRow({height:'auto', backgroundColor:'transparent', selectedBackgroundColor:'#006699'}); 
 			var post_title = Ti.UI.createLabel({text:title, color:'#333333', left:10, height:'auto', width:'auto', top:20, font:{fontWeight:'bold',fontSize:13} });

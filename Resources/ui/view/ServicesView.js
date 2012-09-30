@@ -18,7 +18,7 @@ function invalidate()
 
 function ServicesView() 
 {
-	container = Ti.UI.createView({backgroundColor:'#FF3333', left:0, width:Ti.UI.FILL, opacity:0.5});
+	container = Ti.UI.createView({left:0, width:Ti.UI.FILL});
 	container.invalidate = invalidate;
 	container.addEventListener('postlayout', onPostLayout);
 		
